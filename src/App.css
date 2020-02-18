@@ -92,6 +92,8 @@ main {
 }
 
 .post-content {
+  font-size: 16px;
+  color: #888;
   margin-top: 20px;
   margin-bottom: 20px;
 }
